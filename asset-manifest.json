@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/palindrome-checker/static/css/main.e6c13ad2.css",
+    "main.js": "/palindrome-checker/static/js/main.77ad421b.js",
+    "static/js/453.940e6070.chunk.js": "/palindrome-checker/static/js/453.940e6070.chunk.js",
+    "index.html": "/palindrome-checker/index.html",
+    "main.e6c13ad2.css.map": "/palindrome-checker/static/css/main.e6c13ad2.css.map",
+    "main.77ad421b.js.map": "/palindrome-checker/static/js/main.77ad421b.js.map",
+    "453.940e6070.chunk.js.map": "/palindrome-checker/static/js/453.940e6070.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.77ad421b.js"
+  ]
+}
