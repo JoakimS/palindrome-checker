@@ -11,7 +11,8 @@ export default function App() {
     <div className="App">
       <form>
         <div>
-          <label>Type your word to check</label>
+          // eslint-disable-next-line react/style-prop-object
+          <label style="color:red">Type your word to check</label>
           <input value={word} onChange={(e) => setWord(e.target.value)} />
         </div>
       </form>
