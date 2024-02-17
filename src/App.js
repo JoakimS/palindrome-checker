@@ -12,7 +12,7 @@ export default function App() {
       <form>
         <div>
        
-          <label>Type your word to check it</label>
+          <label>Type your word to check it here</label>
           <input value={word} onChange={(e) => setWord(e.target.value)} />
         </div>
       </form>
