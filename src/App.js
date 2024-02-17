@@ -11,7 +11,7 @@ export default function App() {
     <div className="App">
       <form>
         <div>
-          <label>Hello world ddddd ssss word to check</label>
+          <label>Hello world ddddfffffffffffffffffd ssss word to check</label>
           <input value={word} onChange={(e) => setWord(e.target.value)} />
         </div>
       </form>
