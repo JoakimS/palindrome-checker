@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/palindrome-checker/static/css/main.a0faad78.css",
-    "main.js": "/palindrome-checker/static/js/main.5373df30.js",
+    "main.css": "/palindrome-checker/static/css/main.cf4a6588.css",
+    "main.js": "/palindrome-checker/static/js/main.d5f3aec8.js",
     "static/js/453.940e6070.chunk.js": "/palindrome-checker/static/js/453.940e6070.chunk.js",
     "index.html": "/palindrome-checker/index.html",
-    "main.a0faad78.css.map": "/palindrome-checker/static/css/main.a0faad78.css.map",
-    "main.5373df30.js.map": "/palindrome-checker/static/js/main.5373df30.js.map",
+    "main.cf4a6588.css.map": "/palindrome-checker/static/css/main.cf4a6588.css.map",
+    "main.d5f3aec8.js.map": "/palindrome-checker/static/js/main.d5f3aec8.js.map",
     "453.940e6070.chunk.js.map": "/palindrome-checker/static/js/453.940e6070.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0faad78.css",
-    "static/js/main.5373df30.js"
+    "static/css/main.cf4a6588.css",
+    "static/js/main.d5f3aec8.js"
   ]
 }
